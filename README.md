@@ -2,7 +2,7 @@
 
 🎓 A **Data Science student** pursuing a **B.CompSc (Data Science)** at **INTI International College Subang**, in collaboration with **Swinburne University of Technology (Australia)**.  
 
-📅 **Class of 2026**  
+📅 **Class of 2027**  
 
 🚀 Founder of [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/IntrospectMyanmar.mm) **IntrospectMyanmar – Global Educational Services** - An education consultancy helping students pursue global opportunities.  
 
